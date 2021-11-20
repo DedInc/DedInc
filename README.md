@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DedInc&theme=tokyonight" alt="DedInc" /> 
+</p>
+
+<p align="center">
   <a href="https://t.me/maehdakvan"
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?color=78c6fd&style=for-the-badge&logo=telegram"
