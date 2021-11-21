@@ -28,7 +28,7 @@
     <a href="https://github.com/search?q=user:DedInc+language:python"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedInc&theme=tokyonight&hide_border=true" alt="DedInc"/>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DedInc&theme=tokyonight&hide_border=true" alt="DedInc" /> 
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DedInc&theme=tokyonight&hide_border=true&custom_title=Weekly activity" alt="DedInc" /> 
     </p>
 <p>
 
