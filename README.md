@@ -53,12 +53,12 @@
 <p align="center">
   <a href="https://t.me/maehdakvan"
     ><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?color=78c6fd&style=for-the-badge&logo=telegram"
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram"
   /></a>
   <a href="https://vk.com/animationtube"
     ><img
-      src="https://img.shields.io/badge/VKontakte-%232E87FB?color=5e7aef&style=for-the-badge&logo=vk&logoColor=white"
-      alt="VK"
+      src="https://img.shields.io/badge/VKontakte-%232E87FB?style=for-the-badge&logo=vk&logoColor=white"
+      alt="VKontakte"
   /></a>
 </p>
