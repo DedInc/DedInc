@@ -1,7 +1,5 @@
 <h3 align="center">
-  Hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm DedInc :)
+  <img width="468" height="60" src="https://raw.githubusercontent.com/DedInc/DedInc/main/standard.gif" width="100">
 </h3>
 
 
