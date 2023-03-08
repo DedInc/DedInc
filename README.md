@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img width="468" height="60" src="https://raw.githubusercontent.com/DedInc/DedInc/main/standard.gif" width="100">
+  <img width="480" height="270" src="https://raw.githubusercontent.com/DedInc/DedInc/main/coding.gif" width="100">
 </h3>
 
 
@@ -13,9 +13,7 @@
 
 <h3 align="center">Streak stats</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DedInc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DedInc&theme=tokyonight&hide_border=true"/>
-  </a>
+    <img alt="DedInc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DedInc&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### Programming languages
@@ -33,7 +31,6 @@
 ### Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
