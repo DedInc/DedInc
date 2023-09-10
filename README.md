@@ -46,7 +46,7 @@
 
 <h3 align="center">Social</h3>
 <p align="center">
-  <a href="https://t.me/maehdakvan"
+  <a href="https://t.me/maehdakvan47"
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram"
