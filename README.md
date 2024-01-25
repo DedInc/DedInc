@@ -1,59 +1,50 @@
-<h3 align="center">
-  <img width="480" height="270" src="https://raw.githubusercontent.com/DedInc/DedInc/main/coding.gif" width="100">
-</h3>
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/DedInc/DedInc/main/coding.gif" width="480" height="270"/>
+</div>
 
-
-<p align="center">
+<div id="badges" align="center">
   <a href="https://github.com/DedInc?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DedInc"/></a>
+    <img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DedInc" alt="total stars"/>
+  </a>
   <a href="https://github.com/DedInc?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DedInc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/DedInc?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+    <img src="https://custom-icon-badges.herokuapp.com/github/followers/DedInc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="followers"/>
+  </a>
+  <a href="https://github.com/DedInc?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" alt="All Repositories"/>
+  </a>
+</div>
 
-<h3 align="center">Streak stats</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DedInc&theme=tokyonight&hide_border=true" alt="DedInc's streak"/>
+</div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedInc&theme=tokyonight&hide_border=true" alt="DedInc"/>
+</div>
+
+<div id="activity-graph" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DedInc&theme=tokyonight&hide_border=true&custom_title=Coding%20Activity%20for%20the%20Last%207%20Days" alt="DedInc's Wakatime Stats"/>
+</div>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-    <img alt="DedInc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DedInc&theme=tokyonight&hide_border=true"/>
-</p>
-
-### Programming languages
-
-<p>
-    <a href="https://github.com/search?q=user:DedInc+language:java"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user:DedInc+language:python"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedInc&theme=tokyonight&hide_border=true" alt="DedInc"/>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DedInc&theme=tokyonight&hide_border=true&custom_title=Coding%20activity%20for%20the%20last%207%20days" alt="DedInc"/> 
-        <img src="https://wakatime.com/badge/user/414e96cf-609f-4311-8c75-5a8d7c0c082d.svg" alt="DedInc"/> 
-    </p>
-<p>
-
-### Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-</p>
-
-### Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-</p>
-
-<h3 align="center">Social</h3>
-<p align="center">
-  <a href="https://t.me/maehdakvan47"
-    ><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-  /></a>
-  <a href="https://vk.com/animationtube"
-    ><img
-      src="https://img.shields.io/badge/VKontakte-%232E87FB?style=for-the-badge&logo=vk&logoColor=white"
-      alt="VKontakte"
-  /></a>
+  <a href="https://t.me/maehdakvan777">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/animationtube">
+    <img src="https://img.shields.io/badge/VKontakte-%232E87FB?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
+  </a>
 </p>
