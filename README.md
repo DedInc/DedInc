@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/DedInc/DedInc/main/coding.gif" width="480" height="270"/>
+  <img src="https://raw.githubusercontent.com/DedInc/DedInc/main/coding.gif" width="256" height="256"/>
   <h1>Hello World! 👋 I'm DedInc</h1>
   
   <!-- Typing SVG -->
