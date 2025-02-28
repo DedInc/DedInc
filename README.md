@@ -3,7 +3,7 @@
   <h1>Hello World! 👋 I'm DedInc</h1>
   
   <!-- Typing SVG -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="/">
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Always%20learning%20new%20things;Passionate%20about%20code&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&pause=1000&size=22" />
   </a>
 </div>
