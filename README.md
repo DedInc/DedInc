@@ -61,7 +61,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://t.me/maehdakvan1">
+  <a href="https://t.me/maehdakvan_1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://vk.com/animationtube">
