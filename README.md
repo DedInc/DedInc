@@ -1,70 +1,87 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/DedInc/DedInc/main/banner.gif" width="256" height="256"/>
-  <h1>Hello World! 👋 I'm DedInc</h1>
-  
-  <!-- Typing SVG -->
-  <a href="/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Developer;Always%20learning%20new%20things;Passionate%20about%20code&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&pause=1000&size=22" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Maehdakvan%20Coder&fontColor=e6f1ff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Browser%20automation%20%C2%B7%20Antidetect%20%C2%B7%20Reverse%20engineering&descSize=18&descAlignY=58&descColor=7dcfff" width="100%" alt="Maehdakvan Coder"/>
+
+<a href="https://github.com/DedInc">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DCFFF&center=true&vCenter=true&width=640&height=40&lines=Stealth+browser+automation;Bot-detection+research;Scraping+infrastructure+at+scale;Multi-chain+crypto+tooling" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://t.me/maehdakvan_1"><img src="https://img.shields.io/badge/Telegram-write%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" alt="Telegram"/></a>
+<a href="https://vk.com/animationtube"><img src="https://img.shields.io/badge/VK-profile-2E87FB?style=for-the-badge&logo=vk&logoColor=white&labelColor=1a1b27" alt="VK"/></a>
+<a href="https://github.com/DedInc?tab=followers"><img src="https://img.shields.io/github/followers/DedInc?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27" alt="Followers"/></a>
+<img src="https://img.shields.io/badge/Freelance-open%20for%20work-55960c?style=for-the-badge&labelColor=1a1b27" alt="Open for work"/>
+
 </div>
 
-<div id="badges" align="center">
-  <a href="https://github.com/DedInc?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DedInc" alt="total stars"/>
-  </a>
-  <a href="https://github.com/DedInc?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/DedInc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="followers"/>
-  </a>
-  <a href="https://github.com/DedInc?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo" alt="All Repositories"/>
-  </a>
-</div>
+<br/>
 
-## 📊 GitHub Stats
+## ⚡ What I do
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>🕵️ Stealth automation</h4>
+      Playwright / Puppeteer, fingerprint spoofing, human-like input, antidetect browser APIs.
+    </td>
+    <td width="25%" valign="top">
+      <h4>🔬 Reverse engineering</h4>
+      Web protocols, MTProto, private APIs, anti-bot flows — figuring out how things really talk.
+    </td>
+    <td width="25%" valign="top">
+      <h4>🕸️ Scraping infra</h4>
+      Large-scale collection pipelines: proxies, queues, retries, storage that doesn't fall over.
+    </td>
+    <td width="25%" valign="top">
+      <h4>🪙 Crypto tooling</h4>
+      Portfolio and wallet tooling across EVM, Solana and Cosmos.
+    </td>
+  </tr>
+</table>
+
+## 🧰 Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DedInc&theme=tokyonight&hide_border=true" alt="DedInc's streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedInc&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,playwright,puppeteer,nextjs,svelte,fastify,express,postgres,mongodb,redis,docker,linux&perline=7&theme=dark" alt="Tech stack"/>
 </div>
 
-## 💻 Tech Stack
+## 🚀 Open source
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <a href="https://github.com/DedInc/emunium"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=DedInc&repo=emunium&theme=tokyonight&hide_border=true" alt="emunium"/></a>
+  <a href="https://github.com/DedInc/pyanty"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=DedInc&repo=pyanty&theme=tokyonight&hide_border=true" alt="pyanty"/></a>
+  <a href="https://github.com/DedInc/opentele2"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=DedInc&repo=opentele2&theme=tokyonight&hide_border=true" alt="opentele2"/></a>
 </div>
 
-<details open>
-  <summary><h2>📈 Activity & Contributions</h2></summary>
-  <div id="activity-graph" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DedInc&theme=tokyonight&hide_border=true&custom_title=Coding%20Activity%20for%20the%20Last%207%20Days" alt="DedInc's Wakatime Stats"/>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="DedInc's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DedInc&bg_color=1a1b27&color=73daca&line=7dcfff&point=bb9af7&hide_border=true" />
-    </a>
-  </div>
+<sub>**emunium** — stealth browser automation · **pyanty** — Dolphin Anty API client · **opentele2** — Telegram MTProto</sub>
 
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake.svg" />
-    </picture>
-  </div>
-</details>
+## 📊 Numbers
 
-## 📫 Connect with me
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DedInc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DedInc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</div>
 
-<p align="center">
-  <a href="https://t.me/maehdakvan_1">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://vk.com/animationtube">
-    <img src="https://img.shields.io/badge/VKontakte-%232E87FB?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
-  </a>
-</p>
+## 🤝 Work with me
+
+I take freelance work. Typical jobs:
+
+- 🤖 Custom automation and bots that survive real-world bot detection
+- 🕸️ Scrapers and data pipelines that scale
+- 🔌 Antidetect browser integrations and API clients
+- 💬 Telegram tooling and protocol-level work
+
+**→ [Write me on Telegram](https://t.me/maehdakvan_1)** — tell me the task, get a straight answer on scope and price.
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DedInc/DedInc/output/github-snake.svg" />
+  </picture>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:2c5364,100:0f2027" width="100%" alt=""/>
+</div>
